@@ -5,7 +5,7 @@ The [Streamlabels](https://streamlabs.com/dashboard#/streamlabels) application c
 
 # Installation
 - Drop the files into any folder
-- Modify `line 2 and 5` with your Tokens from https://streamlabs.com/dashboard#/settings/api-setting
+- Modify `line 2 and 5` of `script.js` with your Tokens from https://streamlabs.com/dashboard#/settings/api-setting
 - Modify `line 8` with any filename that would normally be loaded by Streamlabels
 - You can change the font with `style.css`
 - Add `index.html` as browser source on OBS
