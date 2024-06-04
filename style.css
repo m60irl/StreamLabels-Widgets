@@ -59,20 +59,6 @@ li:nth-child(1){
     opacity:1;
 }
 
-
-li:nth-child(1){
-    animation:fade 5s linear;
-}
-
-@keyframes fade {
-    0%,100% { opacity: 0 }
-    25%,50%,75% { opacity: 1 }
-}
-
-span {
-    white-space: pre;
-}
-
 .colorized {
     color: var(--color-text);
 }
